@@ -6,31 +6,13 @@ I am a second-year MS student from Department of Biostatistics at Yale School of
 
 For my undergraduate studies, I obtained a BS degree in Mathematics and Applied Mathematics from School of Mathematics at  Tianjin University and a dual BS degree in Finance from Nankai University. 
 
-### Markdown
+## Software 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### swdpwr
 
-```markdown
-Syntax highlighted code block
+Power calculation of Stepped Wedge CRTs for cohort and cross-sectional designs with continuous and binary outcomes (R package and SAS Macro).
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jiachenchen322/jiachen.chen.github.com/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
