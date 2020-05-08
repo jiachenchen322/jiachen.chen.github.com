@@ -1,8 +1,10 @@
-## Welcome to GitHub Pages
+## About
 
-You can use the [editor on GitHub](https://github.com/jiachenchen322/jiachen.chen.github.com/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+This is Jiachen Chen. Welcome to my homepage!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am a second-year MS student from Department of Biostatistics at Yale School of Public Health and will graduate in May 2020. I am also a research assistant at [Center for Methods in Implementation and Prevention Science (CMIPS)](https://publichealth.yale.edu/cmips/). My research interests mainly concentrate in the design and analysis of clinical trials, longitudinal studies, survival analysis and causal inference.
+
+For my undergraduate studies, I obtained a BS degree in Mathematics and Applied Mathematics from School of Mathematics at  Tianjin University and a dual BS degree in Finance from Nankai University. 
 
 ### Markdown
 
