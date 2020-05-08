@@ -6,16 +6,15 @@ I am a second-year MS student from Department of Biostatistics at Yale School of
 
 For my undergraduate studies, I obtained a BS degree in Mathematics and Applied Mathematics from School of Mathematics at  Tianjin University and a dual BS degree in Finance from Nankai University. 
 
+## Publications
+
 ## Software 
 
 ### swdpwr
 
-Power calculation of Stepped Wedge CRTs for cohort and cross-sectional designs with continuous and binary outcomes (R package and SAS Macro).
+Power calculation of Stepped Wedge CRTs for cohort and cross-sectional designs with continuous and binary outcomes (an R package and a SAS Macro).
 
 
+## Contact
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jiachenchen322/jiachen.chen.github.com/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
