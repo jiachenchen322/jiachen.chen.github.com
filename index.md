@@ -7,6 +7,7 @@ I am a second-year MS student from Department of Biostatistics at Yale School of
 For my undergraduate studies, I obtained a BS degree in Mathematics and Applied Mathematics from School of Mathematics at  Tianjin University and a dual BS degree in Finance from Nankai University. 
 
 ## Publications
+Chen, J., Zhou, X., Li, F., and Spiegelman, D. swdpwr: A SAS Macro and An R Package for Power Calculation in Stepped Wedge Cluster Randomized Trials. To be submitted.
 
 ## Software 
 
