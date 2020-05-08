@@ -17,6 +17,6 @@ Power calculation of Stepped Wedge CRTs for cohort and cross-sectional designs w
 
 
 ## Contact
-Email: jiachen.chen@yale.edu
+Email: (jiachen.chen@yale.edu)
 
 Twitter: [jiachenchencjc](https://twitter.com/jiachenchencjc)
