@@ -16,9 +16,9 @@ Chen, J., Zhou, X., Li, F., and Spiegelman, D. swdpwr: A SAS Macro and An R Pack
 
 Power calculation of Stepped Wedge CRTs for cohort and cross-sectional designs with continuous and binary outcomes (an R package and a SAS Macro).
 
-[R package swdpwr](swdpwr_1.1.tar.gz)     [R documentation](swdpwr_1.1.pdf)
+R package: [Source package](swdpwr_1.1.tar.gz) ;   [R documentation](swdpwr_1.1.pdf)
 
-[SAS macro swdpwr](swdpwr_macro_v4.sas)     [SAS supplementary EXE file](swdnew.exe)
+SAS macro: [SAS file](swdpwr_macro_v4.sas)  ;   [Supplementary EXE file](swdnew.exe)
 
 
 
