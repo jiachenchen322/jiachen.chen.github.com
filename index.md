@@ -8,7 +8,7 @@ I am a research assistant at [Center for Methods in Implementation and Preventio
 I obtained a MS degree in Biostatistics from Yale School of Public Health in May 2020. For my undergraduate studies, I obtained a BS degree in Mathematics and Applied Mathematics from School of Mathematics at Tianjin University and a dual BS degree in Finance from Nankai University in July 2018.
 
 ## Publications
-Chen, J., Zhou, X., Li, F., and Spiegelman, D. swdpwr: A SAS Macro and An R Package for Power Calculation in Stepped Wedge Cluster Randomized Trials. To be submitted. [Manuscript](article_1.7.pdf)
+Jiachen Chen, Xin Zhou, Fan Li, and Donna Spiegelman. swdpwr: A SAS Macro and An R Package for Power Calculation in Stepped Wedge Cluster Randomized Trials. To be submitted. [Manuscript](article_1.7.pdf)
 
 ## Software 
 
