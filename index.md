@@ -2,7 +2,7 @@
 
 This is Jiachen Chen. Welcome to my homepage!
 
-I am a second-year MS student from Department of Biostatistics at Yale School of Public Health and will graduate in May 2020. I am also a research assistant at [Center for Methods in Implementation and Prevention Science (CMIPS)](https://publichealth.yale.edu/cmips/). My research interests mainly concentrate in the design and analysis of clinical trials, longitudinal studies, survival analysis and causal inference.
+I am a second-year MS student from Department of Biostatistics at Yale School of Public Health and will graduate in May 2020. I am also a research assistant at [Center for Methods in Implementation and Prevention Science (CMIPS)](https://publichealth.yale.edu/cmips/). My research interests mainly concentrate in the design and analysis of clinical trials, longitudinal studies, survival analysis and causal inference. I will enroll in the University of Texas Health Science Center at Houston School of Public Health for Biostatistics PhD program in Fall 2020.
 
 For my undergraduate studies, I obtained a BS degree in Mathematics and Applied Mathematics from School of Mathematics at  Tianjin University and a dual BS degree in Finance from Nankai University. 
 
