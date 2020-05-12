@@ -18,7 +18,7 @@ Power calculation of Stepped Wedge CRTs for cohort and cross-sectional designs w
 
 R package: [Source package](swdpwr_1.1.tar.gz) ;   [R documentation](swdpwr_1.1.pdf)
 
-SAS macro: [SAS file](swdpwr_macro_v4.sas)  ;   [Supplementary EXE file](swdnew.exe)
+SAS macro: [SAS files](SAS_macro.zip)  ;   [SAS macro manual](SAS_swdpwr_Macro_Manual.pdf)
 
 ## Presentations
 "swdpwr: A SAS Macro and An R Package for Power Calculation in Stepped Wedge Cluster Randomized Trials", May 2020, Center for Methods in Implementation and Prevention Science (CMIPS), Yale School of Public Health, New Haven, CT
