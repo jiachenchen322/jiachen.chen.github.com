@@ -2,12 +2,13 @@
 
 This is Jiachen Chen. Welcome to my homepage!
 
-I am a second-year MS student from Department of Biostatistics at Yale School of Public Health and will graduate in May 2020. I am also a research assistant at [Center for Methods in Implementation and Prevention Science (CMIPS)](https://publichealth.yale.edu/cmips/). My research interests mainly concentrate in the design and analysis of clinical trials, longitudinal studies, survival analysis and causal inference. I will enroll in the University of Texas Health Science Center at Houston School of Public Health for Biostatistics PhD program in Fall 2020.
+I am a research assistant at [Center for Methods in Implementation and Prevention Science (CMIPS)](https://publichealth.yale.edu/cmips/). My research interests mainly concentrate in the design and analysis of clinical trials, longitudinal studies, survival analysis and causal inference. I will enroll in the University of Texas Health Science Center at Houston School of Public Health for Biostatistics PhD program in Fall 2020.
 
-For my undergraduate studies, I obtained a BS degree in Mathematics and Applied Mathematics from School of Mathematics at  Tianjin University and a dual BS degree in Finance from Nankai University. 
+
+I obtained a MS degress in Biostatistics from Yale School of Public Health in May 2020. For my undergraduate studies, I obtained a BS degree in Mathematics and Applied Mathematics from School of Mathematics at Tianjin University and a dual BS degree in Finance from Nankai University in July 2018.
 
 ## Publications
-Chen, J., Zhou, X., Li, F., and Spiegelman, D. swdpwr: A SAS Macro and An R Package for Power Calculation in Stepped Wedge Cluster Randomized Trials. To be submitted.
+Chen, J., Zhou, X., Li, F., and Spiegelman, D. swdpwr: A SAS Macro and An R Package for Power Calculation in Stepped Wedge Cluster Randomized Trials. To be submitted. [Manuscript](article_1.7.pdf)
 
 ## Software 
 
