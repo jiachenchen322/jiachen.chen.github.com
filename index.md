@@ -20,6 +20,12 @@ R package: [Source package](swdpwr_1.1.tar.gz) ;   [R documentation](swdpwr_1.1.
 
 SAS macro: [SAS file](swdpwr_macro_v4.sas)  ;   [Supplementary EXE file](swdnew.exe)
 
+## Presentations
+"swdpwr: A SAS Macro and An R Package for Power Calculation in Stepped Wedge Cluster Randomized Trials", May 2020, Center for Methods in Implementation and Prevention Science (CMIPS), Yale School of Public Health, New Haven, CT
+
+"swdpwr: A SAS Macro and An R Package for Power Calculation in Stepped Wedge Cluster Randomized Trials", April 2020, Department of Biostatistics, Yale School of Public Health, New Haven, CT
+
+"swdpwr: A SAS Macro and An R Package for Power Calculation in Stepped Wedge Cluster Randomized Trials", April 2020, Yale-APHA Student Research Symposium, New Haven, CT
 
 
 ## Contact
