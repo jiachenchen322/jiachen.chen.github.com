@@ -10,6 +10,8 @@ I obtained a MS degree in Biostatistics from Yale School of Public Health in May
 ## Publications
 Jiachen Chen, Xin Zhou, Fan Li, and Donna Spiegelman. swdpwr: A SAS Macro and An R Package for Power Calculation in Stepped Wedge Cluster Randomized Trials. To be submitted. [Manuscript](article_1.7.pdf)
 
+Yang Li, Jiachen Chen, Ruofan Bie, Shuangge Ma and Yichen Qin. Robust Data Analytics on Ultra-high Contaminated Genetic Data. To be submitted.
+
 ## Software 
 
 ### swdpwr
