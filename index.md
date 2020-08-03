@@ -2,8 +2,7 @@
 
 This is Jiachen Chen. Welcome to my homepage!
 
-I am a research assistant at [Center for Methods in Implementation and Prevention Science (CMIPS)](https://publichealth.yale.edu/cmips/) supervised by Dr. [Donna Spiegelman](https://publichealth.yale.edu/cmips/profile/donna_spiegelman/). My research interests mainly concentrate in the design and analysis of clinical trials, longitudinal studies, survival analysis and causal inference. I am also interested in machine learning and Bayesian modeling for high dimensional data. I will enroll in the University of Texas Health Science Center at Houston School of Public Health for Biostatistics PhD program in Fall 2020.
-
+I am a research assistant at [Center for Methods in Implementation and Prevention Science (CMIPS)](https://publichealth.yale.edu/cmips/) supervised by Dr. [Donna Spiegelman](https://publichealth.yale.edu/cmips/profile/donna_spiegelman/). My research interests mainly concentrate in the design and analysis of clinical trials, longitudinal studies, survival analysis and causal inference. I am also interested in machine learning and Bayesian modeling for high dimensional data.
 
 I obtained a MS degree in Biostatistics from Yale School of Public Health in May 2020. For my undergraduate studies, I obtained a BS degree in Mathematics and Applied Mathematics from School of Mathematics at Tianjin University and a dual BS degree in Finance from Nankai University in July 2018.
 
