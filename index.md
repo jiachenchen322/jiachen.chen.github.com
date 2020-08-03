@@ -4,7 +4,7 @@ This is Jiachen Chen. Welcome to my homepage!
 
 I am a research assistant at [Center for Methods in Implementation and Prevention Science (CMIPS)](https://publichealth.yale.edu/cmips/) supervised by Dr. [Donna Spiegelman](https://publichealth.yale.edu/cmips/profile/donna_spiegelman/). My research interests mainly concentrate in the design and analysis of clinical trials, longitudinal studies, survival analysis and causal inference. I am also interested in machine learning and Bayesian modeling for high dimensional data.
 
-I obtained a MS degree in Biostatistics from Yale School of Public Health in May 2020. For my undergraduate studies, I obtained a BS degree in Mathematics and Applied Mathematics from School of Mathematics at Tianjin University and a dual BS degree in Finance from Nankai University in July 2018. I will enroll in the Unviersity of Texas Health Science Center at Houston as a PhD of Biostatistics in Fall 2021.
+I obtained a MS degree in Biostatistics from Yale School of Public Health in May 2020. For my undergraduate studies, I obtained a BS degree in Mathematics and Applied Mathematics from School of Mathematics at Tianjin University and a dual BS degree in Finance from Nankai University in July 2018. 
 
 ## Manuscripts
 Jiachen Chen, Xin Zhou, Fan Li, and Donna Spiegelman. swdpwr: A SAS Macro and An R Package for Power Calculation in Stepped Wedge Cluster Randomized Trials. To be submitted. [Manuscript](article_1.7.pdf)
@@ -22,11 +22,13 @@ R package: [Source package](swdpwr_1.1.tar.gz) ;   [R documentation](swdpwr_1.1.
 SAS macro: [SAS files](SAS_macro.zip)  ;   [SAS macro manual](SAS_swdpwr_Macro_Manual.pdf)
 
 ## Presentations
-"swdpwr: A SAS Macro and An R Package for Power Calculation in Stepped Wedge Cluster Randomized Trials", May 2020, Center for Methods in Implementation and Prevention Science (CMIPS), Yale School of Public Health, New Haven, CT
+(Poster) "swdpwr: A SAS Macro and An R Package for Power Calculation in Stepped Wedge Cluster Randomized Trials", August 2020, 41st Annual Conference of the International Society for Clinical Biostatistics (ISCB41), Kraków, Poland
 
-"swdpwr: A SAS Macro and An R Package for Power Calculation in Stepped Wedge Cluster Randomized Trials", April 2020, Department of Biostatistics, Yale School of Public Health, New Haven, CT
+(Invited) "swdpwr: A SAS Macro and An R Package for Power Calculation in Stepped Wedge Cluster Randomized Trials", May 2020, Center for Methods in Implementation and Prevention Science (CMIPS), Yale School of Public Health, New Haven, CT
 
-"swdpwr: A SAS Macro and An R Package for Power Calculation in Stepped Wedge Cluster Randomized Trials", April 2020, Yale-APHA Student Research Symposium, New Haven, CT
+(Talk) "swdpwr: A SAS Macro and An R Package for Power Calculation in Stepped Wedge Cluster Randomized Trials", April 2020, Department of Biostatistics, Yale School of Public Health, New Haven, CT
+
+(Talk) "swdpwr: A SAS Macro and An R Package for Power Calculation in Stepped Wedge Cluster Randomized Trials", April 2020, Yale-APHA Student Research Symposium, New Haven, CT
 
 
 ## Contact
