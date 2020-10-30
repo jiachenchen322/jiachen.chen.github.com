@@ -17,7 +17,7 @@ Yang Li, Jiachen Chen, Ruofan Bie, Shuangge Ma and Yichen Qin. Robust Data Analy
 
 Power calculation of Stepped Wedge CRTs for cohort and cross-sectional designs with continuous and binary outcomes (an R package and a SAS Macro). [Manual](manual.pdf)
 
-R package: [Package source](swdpwr_1.1.tar.gz) ; [macOS binaries](swdpwr_1.1.tgz) ; [R documentation](swdpwr_1.1.pdf)
+R package: [Published On CRAN](https://CRAN.R-project.org/package=swdpwr) ; [Shiny App](https://jiachenchen322.shinyapps.io/swdpwr_shinyapp/); 
 
 SAS macro: [SAS files](SAS_macro.zip)  ;   [SAS macro manual](SAS_swdpwr_Macro_Manual.pdf)
 
