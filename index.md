@@ -32,6 +32,6 @@ SAS macro: [SAS files](SAS_macro.zip)  ;   [SAS macro manual](SAS_swdpwr_Macro_M
 
 
 ## Contact
-Email: jiachen.chen@yale.edu
+Email: jiachen.chen322@gmail.com
 
 Twitter: [jiachenchencjc](https://twitter.com/jiachenchencjc)
