@@ -2,14 +2,14 @@
 
 This is Jiachen Chen. Welcome to my homepage!
 
-I am an incoming PhD student in Biostatistics at Boston University School of Public Health. My research interests mainly concentrate in statistical genetics, the design and analysis of clinical trials, longitudinal studies, and causal inference. 
+I am a first-year PhD student in Biostatistics at Boston University School of Public Health. My research interests mainly concentrate in statistical genetics, the design and analysis of clinical trials, longitudinal studies, and causal inference. 
 
 I obtained a MS degree in Biostatistics from Yale School of Public Health in May 2020. I was a research assistant at [Center for Methods in Implementation and Prevention Science (CMIPS)](https://publichealth.yale.edu/cmips/) and completed my master thesis supervised by Dr. [Donna Spiegelman](https://publichealth.yale.edu/cmips/profile/donna_spiegelman/). For my undergraduate studies, I obtained a BS degree in Mathematics and Applied Mathematics from School of Mathematics at Tianjin University and a dual BS degree in Finance from Nankai University in July 2018. 
 
 ## Manuscripts
-Jiachen Chen, Xin Zhou, Fan Li, and Donna Spiegelman. swdpwr: A SAS Macro and An R Package for Power Calculation in Stepped Wedge Cluster Randomized Trials. Computer Methods and Programs in Biomedicine, [Submitted](swdpwr-cmpb-submit.pdf). [Preprint](https://arxiv.org/abs/2011.06031)
+Jiachen Chen, Xin Zhou, Fan Li, and Donna Spiegelman. swdpwr: A SAS Macro and An R Package for Power Calculation in Stepped Wedge Cluster Randomized Trials. Computer Methods and Programs in Biomedicine, [In revision](swdpwr-cmpb-submit.pdf). [Preprint](https://arxiv.org/abs/2011.06031)
 
-Jiachen Chen, Ruofan Bie, Yichen Qin, Yang Li, and Shuangge Ma. Lq-based Robust Analytics on Ultrahigh and High Dimensional Data. Statistical Methods in Medical Research, Submitted.
+Jiachen Chen, Ruofan Bie, Yichen Qin, Yang Li, and Shuangge Ma. Lq-based Robust Analytics on Ultrahigh and High Dimensional Data. Statistics in Medicine, Submitted.
 
 Xin Zhou, Xiaomei Liao, Jiachen Chen and Donna Spiegelman. Power Calculation for Stepped Wedge Designs with Binary Outcomes. To be submitted.
 
@@ -34,6 +34,6 @@ SAS macro: [SAS files](SAS_macro.zip)  ;   [SAS macro manual](SAS_swdpwr_Macro_M
 
 
 ## Contact
-Email: jiachen.chen322@gmail.com
+Email: chenjc@bu.edu
 
 Twitter: [jiachenchencjc](https://twitter.com/jiachenchencjc)
